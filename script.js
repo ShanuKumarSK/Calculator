@@ -24,6 +24,7 @@ function getFormattedNumber(num) {
   var value = n.toLocaleString("en");
   return value;
 }
+//nnxkaixkaxkaxkaxj
 // printOutput("987654321");
 function reverseNumberFormat(num) {
   return Number(num.replace(/,/g, ""));
